@@ -17,7 +17,7 @@ function isPalindrome(word) {
 
 /*
   Add written explanation of your solution here.
--Below is a description of how my solution
+-Below is a description of how my solution works.
 By using the .split(''),I am creating an array of characters of the word passed as an argument.
 -Then the .reverse changes the order of arrangement of the characters.
 -the .join('')method joins the reversed order of characters to form a word.
